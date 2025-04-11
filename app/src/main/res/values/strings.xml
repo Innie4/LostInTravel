@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LostInTravel</string>
+    <string name="app_description">Discover amazing destinations around the world</string>
+    <string name="app_logo">App Logo</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
